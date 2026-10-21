@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Aeronautical Science @ Embry-Riddle Aeronautical University</b><br>
-  Private Pilot w/ Instrument Rating · Recreational Programming
+  Private Pilot w/ Instrument Rating · Recreational Programmer
 </p>
 
 <p align="center">
